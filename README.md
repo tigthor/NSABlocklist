@@ -1,4 +1,8 @@
-NSABlocklist© project original created under the MIT license 2015 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+NSABlocklist© project original created under the MIT license 2015-2018 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/big-brother.jpg)">
+</p>
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
