@@ -200,26 +200,10 @@ Backbone Providers
 VPN providers which are not secure
 ------------
 
-The following providers know you 'Secret Key' or spying on you.<br />
-
-Keys: <br />
-* Astril / way2stars  
-* EarthVPN / earthvpn
-* GFwVPN / gfwvpn  
-* GoldenFrog / thisisourkey  
-* IBVPN / ibVPNsharedPSK!  
-* IPVanish / ipvanish  
-* NordVPN  / nordvpn 
-* PureVPN / 12345678  
-* SlickVPN / gogoVPN
-* TorGuard / torguard 
-* TigerVPN / tigerVPN
-* UnblockVPN / xunblock4me  
-* VPNReactor / VPNReactor  
-
-
 Spying:<br />
-[HotSpotShield](https://cdt.org/files/2017/08/FTC-CDT-VPN-complaint-8-7-17.pdf)
+* [HotSpotShield](https://cdt.org/files/2017/08/FTC-CDT-VPN-complaint-8-7-17.pdf)
+* Hide My Ass
+* ProXPN
 
 
 Research: <br />
@@ -304,7 +288,7 @@ Spying programs
 Passwords
 ------------
 
-* [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) [use [Two-factor authentication instead](https://en.wikipedia.org/wiki/Multi-factor_authentication)
+* [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) [use [Two-factor authentication instead](https://en.wikipedia.org/wiki/Multi-factor_authentication)]
 
 
 **Thanks goes to everyone which are fighting for www. security! Give spying no chance!**
