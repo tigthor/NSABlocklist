@@ -108,6 +108,7 @@ Utils
 Project History
 ------------
 
+- [x] 21.01.2018 Intel, AMD, Trusted Computing papers added among Vault 8 (Hive) source and documentation
 - [x] 30.01.2016 Video section added, official guidance from nsa.gov added + an section for future tips
 - [x] 15.09.2015 Separate the into his own References.txt file (list was also updated)
 - [x] 04.09.2015 Added Ipv6 list, sort the test lists in his own cat.
@@ -227,6 +228,7 @@ Research: <br />
 * https://help.tigervpn.com/support/search/solutions?term=shared+secret+tigerVPN [Archive](http://archive.is/xZ136)
 * https://www.slickvpn.com/tutorials/ipsec-for-iphone/ [Archive](http://archive.is/h4rI9)
 * DoubleHop.me: [Archive](http://archive.is/G11WQ) and http://archive.is/MZgWE and http://imgur.com/Zn5HSIj
+* https://en.wikipedia.org/wiki/Trusted_Computing#Loss_of_anonymity ([measure.c](https://github.com/systemd/systemd/blob/09541e49ebd17b41482e447dd8194942f39788c0/src/boot/efi/measure.c))
 
 
 Recommendation:<br />
@@ -250,7 +252,6 @@ Other services providers + social media platforms
 * Yahoo
 * Twitter (FBI records)
 * ....
-
 
 
 Spying systems
