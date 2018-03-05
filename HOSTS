@@ -1,16 +1,16 @@
 #
-# License:								MIT License (MIT)
-# File encoding: 						UTF-8 Dos/Windows 1252
-# Original maintainer:					CHEF-KOCH
+# License:								    MIT License (MIT)
+# File encoding: 					    UTF-8 Dos/Windows 1252
+# Original maintainer:		    CHEF-KOCH
 # Notice:								
-# Version:								0.0.17
-# Homepage: 							http://chef-koch.github.io/NSABlocklist/HOSTS.txt
+# Version:								    0.0.17
+# Homepage: 							    https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
 #
 127.0.0.1 localhost						#[IPv4 only]
 127.0.0.1 localhost.localdomain			#
 127.0.0.1 255.255.255.255 broadcasthost #Unix/Mac serv.
-#::1 localhost							#[IPv6 only]
-#127.0.0.1 local 						#Unix only
+#::1 localhost							  #[IPv6 only]
+#127.0.0.1 local 						  #Unix only
 #
 
 # NSABlocklist begins here
