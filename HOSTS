@@ -1,19 +1,71 @@
 #
-# License:								    MIT License (MIT)
-# File encoding: 					    UTF-8 Dos/Windows 1252
+# License:						MIT License (MIT)
+# File encoding: 			    UTF-8 Dos/Windows 1252
 # Original maintainer:		    CHEF-KOCH
 # Notice:								
-# Version:								    0.0.17
-# Homepage: 							    https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
+# Version:						0.0.17
+# Homepage: 					https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
 #
-127.0.0.1 localhost						#[IPv4 only]
-127.0.0.1 localhost.localdomain			#
-127.0.0.1 255.255.255.255 broadcasthost #Unix/Mac serv.
-#::1 localhost							  #[IPv6 only]
-#127.0.0.1 local 						  #Unix only
+127.0.0.1 localhost							#[IPv4 only]
+127.0.0.1 localhost.localdomain				#
+127.0.0.1 255.255.255.255 broadcasthost 	#Unix/Mac serv.
+#::1 localhost							  	#[IPv6 only]
+#127.0.0.1 local 						  	#Unix only
 #
 
 # NSABlocklist begins here
+0.0.0.0 108.61.165
+0.0.0.0 185.82.202
+0.0.0.0 130.117.50.166
+0.0.0.0 149.14.125.162
+0.0.0.0 ads.vidz4fun.com
+0.0.0.0 telecom-egypt.demarc.cogentco.com
+0.0.0.0 be3093.ccr22.mrs01.atlas.cogentco.com
+0.0.0.0 s10.histats
+0.0.0.0 infinitads.com
+0.0.0.0 static.dbmads.com
+0.0.0.0 go.deliverymodo.com
+0.0.0.0 cs6hm.com
+0.0.0.0 cpm10.com
+0.0.0.0 urldelivery.com
+0.0.0.0 clicksgear.com
+0.0.0.0 hitcpm.com
+0.0.0.0 ylx-4.com
+0.0.0.0 conceau.co
+0.0.0.0 cnhv.co
+0.0.0.0 ad2upapp.com
+0.0.0.0 babylon-x.com
+0.0.0.0 copticpope.org
+0.0.0.0 go.pub2srv.com
+0.0.0.0 cdn-upd-ms6.com
+0.0.0.0 bombinate.winload.info
+0.0.0.0 epoch.uploaders.online
+0.0.0.0 solitude.filedownloads.online
+0.0.0.0 mevlut.oncu.yandex.com
+0.0.0.0 document.downloadingsystem.com
+0.0.0.0 epoch.englishdownloaders.today
+0.0.0.0 internet.downloadingdocuments.com
+0.0.0.0 system.filedownloaders.com
+0.0.0.0 upd-ms3-app-state.com
+0.0.0.0 cdn6-upd-state-app.com
+0.0.0.0 cdn2-sys-upd.com
+0.0.0.0 solitude.file-download.today
+0.0.0.0 system.documentations.live
+0.0.0.0 epiphany.download-document.world15
+0.0.0.0 epoch.wind-files.today
+0.0.0.0 internet.document-management.today
+0.0.0.0 and-security-state.com
+0.0.0.0 ms-cdn-88.com
+0.0.0.0 computing.downloaders.today
+0.0.0.0 storage.computingdownloads.life
+0.0.0.0 window.processingdownloads.today
+0.0.0.0 mevlut.oncu.example.com
+0.0.0.0 download.downloading.shop
+0.0.0.0 downloading.syriantelecom.co14
+0.0.0.0 download.syriantelecommunications.co
+0.0.0.0 downloading.internetdownloading.co
+0.0.0.0 download.downloadering.co
+0.0.0.0 redirection.bid
 0.0.0.0 mail.a-1.net.cn
 0.0.0.0 axil.eureka.lk
 0.0.0.0 info.ccs.net.mx

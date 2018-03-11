@@ -102,6 +102,8 @@ Utils
 * [DenyHosts](http://denyhosts.sourceforge.net/)
 * [Decode Your HTTP Traffic with Open Source Sysdig (sysdig.com)](https://sysdig.com/decode-your-http-traffic-with-sysdig/)
 * [Courage Foundation](https://www.couragefound.org/)
+* [shodan.io](https://www.shodan.io/)
+* [censys.io](https://censys.io/)
 
 
 
@@ -167,6 +169,9 @@ Providers
 * Unicom (GFW)
 * CERNET (GFW)
 * Embarq
+* Telecom Egypt
+* [Türk Telekom](https://www.btk.gov.tr/File/?path=ROOT%2F1%2FDocuments%2FPages%2FMarket_Data%2F2017_Q1_Eng.pdf)
+* Belgacom
 * ....
 
 
