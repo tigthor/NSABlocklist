@@ -110,6 +110,7 @@ Utils
 Project History
 ------------
 
+- [x] 22.03.2018 Bitcoing (Blockchain) tracking documents (revealed by E.S.) added
 - [x] 21.01.2018 Intel, AMD, Trusted Computing papers added among Vault 8 (Hive) source and documentation
 - [x] 30.01.2016 Video section added, official guidance from nsa.gov added + an section for future tips
 - [x] 15.09.2015 Separate the into his own References.txt file (list was also updated)
@@ -173,6 +174,18 @@ Providers
 * [Türk Telekom](https://www.btk.gov.tr/File/?path=ROOT%2F1%2FDocuments%2FPages%2FMarket_Data%2F2017_Q1_Eng.pdf)
 * Belgacom
 * ....
+
+
+Blockchain monitoring
+------------
+* OAKSTAR (sub-project MONKEYROCKET)
+* SHIFTINGSHADOW
+* ORANGECRUSH
+* YATCHSHOP
+* ORANGEBLOSSOM
+* SILVERZEPHYR
+* BLUEZEPHYR
+* COBALTFALCON
 
 
 Videos

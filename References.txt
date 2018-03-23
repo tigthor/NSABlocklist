@@ -63,6 +63,7 @@ References
 * [Encryption doesn't stop the FBI (theintercept.com)](https://theintercept.com/2015/09/28/hacking/)
 * [NSA runs its spying activities on Red Hat Linux](http://www.itwire.com/opinion-and-analysis/open-sauce/68567-nsa-runs-its-spying-activities-on-red-hat-linux)
 * [How the NSA can break trillions of encrypted Web and VPN connections ](http://arstechnica.com/security/2015/10/how-the-nsa-can-break-trillions-of-encrypted-web-and-vpn-connections/)
+* [THE NSA WORKED TO “TRACK DOWN” BITCOIN USERS, SNOWDEN DOCUMENTS REVEAL](https://theintercept.com/2018/03/20/the-nsa-worked-to-track-down-bitcoin-users-snowden-documents-reveal/)
 
 
 
@@ -77,7 +78,8 @@ Videos
 Papers
 ------------
 
-
+* [Pages From OAKSTAR Weekly 2013-03-29](https://theintercept.com/document/2018/03/20/pages-from-oakstar-weekly-2013-03-29/)
+* [Pages From OAKSTAR Weekly 2013-03-15](https://theintercept.com/document/2018/03/20/pages-from-oakstar-weekly-2013-03-15/)
 * [Detect IP spoofing with 97 chance of success](https://sce.carleton.ca/~abdou/CPV_TDSC.pdf)
 * [ENCRYPT Act of 2016](https://assets.documentcloud.org/documents/2708079/LIEU-027-Xml-ENCRYPT-Act-of-2016.pdf)
 * [Google PDF Search: “not for public release”](https://www.google.com/search?as_q=&as_epq=not+for+public+release&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=pdf&as_rights=&gws_rd=ssl)
