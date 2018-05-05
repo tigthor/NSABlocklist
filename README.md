@@ -87,7 +87,7 @@ ToDo:
 - [x] Provide external file for sources, reference and researches
 - [x] Create an external References.txt for all necessary spying information so people can directly link into it
 - [ ] Sort documents, release full documentation and collections under Release 
-
+	- [ ] Explain how to handle leaks/releases, cause saying 'use VPN' isn't enough.
 
 
 Utils
@@ -98,7 +98,6 @@ Utils
 * [ZMap - The Internet Scanner](https://zmap.io/)
 * [IP Address Details (ipinfo.io)](https://ipinfo.io/)
 * tracert nsa.gov, see [how TRACERT command works](http://support.microsoft.com/?kbid=162326)
-* ... [others](http://www.rationallyparanoid.com/resources/)
 * [GlobalLeaks](https://globaleaks.org/) [Open-source anonymous whistleblowing software]
 * [Freedom Box](http://freedomboxfoundation.org/learn/)
 * [DenyHosts](http://denyhosts.sourceforge.net/)
@@ -106,6 +105,7 @@ Utils
 * [Courage Foundation](https://www.couragefound.org/)
 * [shodan.io](https://www.shodan.io/)
 * [censys.io](https://censys.io/)
+* ... [others](http://www.rationallyparanoid.com/resources/)
 
 
 
