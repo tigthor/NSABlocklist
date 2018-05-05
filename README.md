@@ -43,8 +43,9 @@ Important Notice
 ------------
 
 * A true list of compromised IPs would list the entire Internet, then on to the fuller range open mouth blabbering of blogs, email, chat rooms, texting, aided and abetted by the world's telecoms, postal services, and, most reliably, bedroom  murmurings.
-* I do not accept donations, I'm not doing this because I want $$money or hype, I'm doing this because I didn't found a proper list on the whole Internet and of course I want to share my knowledge for free. I always think that such information should be available for everyone on the world.
-* Please keep in mind that updates/encryption/knowledge is our _only_ weapon against NSA and other agencies, since I not encrypt this list (for what?) the update argument is important so I always search for maintainer to complete the list(s). It's currently not possible to update everything daily or every x hours since there is no tool/software/script which detect such servers automatically - it needs to be checked against domain servers, trace-routes, documents - all by hand!
+* I do not accept donations in this project, I'm not doing this because I want $$money or hype, I'm doing this because I didn't found a proper list on the whole Internet and of course I want to share my knowledge for free. I always think that such information should be available for everyone on the world.
+* The project has no political orientation, there will be no political leaks/information since this is not the main mission here.
+* Please keep in mind that updates/encryption/knowledge is our _only real_ weapon against NSA and other agencies. The more you know the better you can build strategies and new systems to defeat mass surveillance.
 
 
 
@@ -67,7 +68,6 @@ Known problems
 * Trace-route analysis especially on IPv4 networks are sometimes outdated (due the mass of requests).
 * Be careful when blocking IP addresses, as IP addresses change frequently and can block people you don't intend to block.
 * **NSA and other agencies can spy on traffic directly from supercomputers like infamous Echelon connected directly to some backbone without revealing any IP. This is an common problem, only strong and proper implemented encryption helps.**
-
 
 
 ToDo:
