@@ -150,10 +150,10 @@ Snowden documents compilations
 
 
 
-Providers
+ISP Providers
 ------------
 
-* [AT&T helped to spy on an array of internet traffic | The New York Times](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
+* [AT&T helped to spy on an array of Internet traffic | The New York Times](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
 * Telecom / T-Mobile 
 * Vodafone
 * E-Plus / O2
@@ -175,7 +175,9 @@ Providers
 * Telecom Egypt
 * [Türk Telekom](https://www.btk.gov.tr/File/?path=ROOT%2F1%2FDocuments%2FPages%2FMarket_Data%2F2017_Q1_Eng.pdf)
 * Belgacom
+* [Tor has a community based good/bad ISP list](https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs)
 * ....
+
 
 
 Blockchain monitoring
