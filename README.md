@@ -29,6 +29,7 @@ This project includes
 * The 'Mail.txt' file in case you want to speak with me over encrypted email.
 * An 'test' folder for IPv6 only domains. It also contains an 'html' folder for html formatted entries, an 'onion' folder for suspect or faked .onions and an 'Tor' folder for a quick guide how to run an non-exit relay in around 10 minutes.
 * The 'References.txt' which contains relevant information about spying or additional topics which may related to reveal surveillance.
+* Under the [release page](https://github.com/CHEF-KOCH/NSABlocklist/releases) you will find complete collections/dumps.
 * Information on hardware based attacks. 
 
 
@@ -42,7 +43,7 @@ Important Notice
 ------------
 
 * A true list of compromised IPs would list the entire Internet, then on to the fuller range open mouth blabbering of blogs, email, chat rooms, texting, aided and abetted by the world's telecoms, postal services, and, most reliably, bedroom  murmurings.
-* I do not accept donations, I'm not doing this because I want $$money or hype, I'm doing this because I didn't found a proper list on the whole internet and of course I want to share my knowledge for free. I always think that such information should be available for everyone on the world.
+* I do not accept donations, I'm not doing this because I want $$money or hype, I'm doing this because I didn't found a proper list on the whole Internet and of course I want to share my knowledge for free. I always think that such information should be available for everyone on the world.
 * Please keep in mind that updates/encryption/knowledge is our _only_ weapon against NSA and other agencies, since I not encrypt this list (for what?) the update argument is important so I always search for maintainer to complete the list(s). It's currently not possible to update everything daily or every x hours since there is no tool/software/script which detect such servers automatically - it needs to be checked against domain servers, trace-routes, documents - all by hand!
 
 
@@ -72,19 +73,20 @@ Known problems
 ToDo:
 ------------
 
-- [x] Add VPN providers
+- [x] Add compromised VPN providers
 - [ ] Fix Readme.md, typos, grammar,...
-  - [ ] Sort hosts entries alphabetically
+  - [ ] Sort hosts entries alphabetically (low-prio)
   - [ ] Add an separate hosts file for MS, Apple, Google (if someone really needs it) 
-  - [ ] Monthly updates!?
-- [ ] Find invalid entries or domains that aren't online anymore (high-prio)
+  - [ ] Monthly updates based on current leaks?
+- [x] Find invalid entries or domains that aren't online anymore (high-prio)
 - [ ] Fix/merge all reported [issues](https://github.com/CHEF-KOCH/NSABlocklist/issues)
   - [ ] Add explanation how to identify compromised domains/DNS or other bogus addresses (high-prio)
 	- [ ] Add solutions to e.g. secure DNS via DNSCrypt/DANE (low-prio)
 	- [x] Add IPv6 only hosts file (low-prio)
 	- [x] Add mirror(s) in case some papers/news are linked directly on blocked government pages (low-prio)
-- [ ] Use external file for sources, reference and researches
+- [x] Provide external file for sources, reference and researches
 - [x] Create an external References.txt for all necessary spying information so people can directly link into it
+- [ ] Sort documents, release full documentation and collections under Release 
 
 
 
