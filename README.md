@@ -88,6 +88,9 @@ ToDo:
 - [x] Create an external References.txt for all necessary spying information so people can directly link into it
 - [ ] Sort documents, release full documentation and collections under Release 
 	- [ ] Explain how to handle leaks/releases, cause saying 'use VPN' isn't enough.
+	- [ ] Add Apple decrypt assist documents as archive (over 100+ docs) seems the gov has huge interest to force apple to decrypt their phones 
+	- [ ] Add Microsoft Vs. NSA/CIA documents (over 100+ docs) as archive (still ongoing?)
+	- [ ] Add Google Vs. NSA documents (over 600+ docs) as archive (not anytime soon since this is ongoing)
 
 
 Utils
@@ -236,6 +239,7 @@ Recommendation:<br />
 
 * [ProtonVPN](https://protonvpn.com/)
 * [Private Internet Access](https://www.privateinternetaccess.com)
+* See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more detailed comparison chart
 
 
 
@@ -419,12 +423,6 @@ Spying programs
 * HACIENDA
 
 
-Passwords
-------------
-
-* [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) [use [Two-factor authentication instead](https://en.wikipedia.org/wiki/Multi-factor_authentication)]
-
-
 **Thanks goes to everyone which are fighting for www. security! Give spying no chance!**
 
 
@@ -447,4 +445,5 @@ Research: <br />
 * https://www.slickvpn.com/tutorials/ipsec-for-iphone/ [Archive](http://archive.is/h4rI9)
 * DoubleHop.me: [Archive](http://archive.is/G11WQ) and http://archive.is/MZgWE and http://imgur.com/Zn5HSIj
 * https://en.wikipedia.org/wiki/Trusted_Computing#Loss_of_anonymity ([measure.c](https://github.com/systemd/systemd/blob/09541e49ebd17b41482e447dd8194942f39788c0/src/boot/efi/measure.c))
+* [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 
 
