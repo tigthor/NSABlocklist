@@ -64,6 +64,7 @@ References
 * [NSA runs its spying activities on Red Hat Linux](http://www.itwire.com/opinion-and-analysis/open-sauce/68567-nsa-runs-its-spying-activities-on-red-hat-linux)
 * [How the NSA can break trillions of encrypted Web and VPN connections ](http://arstechnica.com/security/2015/10/how-the-nsa-can-break-trillions-of-encrypted-web-and-vpn-connections/)
 * [THE NSA WORKED TO “TRACK DOWN” BITCOIN USERS, SNOWDEN DOCUMENTS REVEAL](https://theintercept.com/2018/03/20/the-nsa-worked-to-track-down-bitcoin-users-snowden-documents-reveal/)
+* [THE INTERCEPT IS BROADENING ACCESS TO THE SNOWDEN ARCHIVE. HERE’S WHY (theintercept.com)](https://theintercept.com/2016/05/16/the-intercept-is-broadening-access-to-the-snowden-archive-heres-why/)
 
 
 
