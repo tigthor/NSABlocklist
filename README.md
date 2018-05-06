@@ -17,7 +17,7 @@ This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) 
 My list is original based on 2007 published Wikileaks documents and includes my own modifications from 2008, 2012, 2014 and 2015.
 
 
-Current Status: 2,45 Mio files (not everything upload [yet]).
+**Current Status**: 2,45 Mio files (not everything upload [yet]).
 
 
 
@@ -93,7 +93,8 @@ ToDo:
 	- [ ] Explain how to handle leaks/releases, cause saying 'use VPN' isn't enough.
 	- [ ] Add Apple decrypt assist documents as archive (over 100+ docs) seems the gov has huge interest to force apple to decrypt their phones 
 	- [ ] Add Microsoft Vs. NSA/CIA documents (over 100+ docs) as archive (still ongoing?)
-	- [ ] Add Google Vs. NSA documents (over 600+ docs) as archive (not anytime soon since this is ongoing)
+	- [ ] Add Google Vs. NSA documents (over 600+ docs) as archive (not anytime soon since this is ongoing
+- [ ] Sort and upload rest of 2+ Mio files. Not anytime soon, for sure. 
 
 
 Utils
@@ -118,6 +119,8 @@ Utils
 Project History
 ------------
 
+- [x] 06.05.2018 Readme updates, pdf section sorted, new PDF files updated. Project Status added, several other minor changes.
+- [x] 05.05.2018 Ipfilter update.
 - [x] 22.03.2018 Bitcoing (Blockchain) tracking documents (revealed by E.S.) added
 - [x] 21.01.2018 Intel, AMD, Trusted Computing papers added among Vault 8 (Hive) source and documentation
 - [x] 30.01.2016 Video section added, official guidance from nsa.gov added + an section for future tips
@@ -139,19 +142,14 @@ Snowden documents compilations
 * [Unofficial page to search E. Snowden leaked documents](https://search.edwardsnowden.com/)
 * https://edwardsnowden.com/revelations/
 * [Free Haven's Selected Papers in Anonymity](http://freehaven.net/anonbib/)
-* http://cjfe.org/snowden
-* https://github.com/nsa-observer/documents/tree/master/files/pdf
-* https://www.aclu.org/nsa-documents-search
-* http://freesnowden.is/category/revealed-documents/index.html
+* [GitHub: nsa-observer project](https://github.com/nsa-observer/documents/tree/master/files/pdf)
+* [ACLU NSA Documents Search](https://www.aclu.org/nsa-documents-search) [2013 Archive](https://www.aclu.org/nsa-documents-released-public-june-2013)
+* [Free Snowden project](http://freesnowden.is/category/revealed-documents/index.html)
 * [NSA Spying | Electronic Frontier Foundation](https://www.eff.org/de/nsa-spying)
-* https://www.eff.org/deeplinks/2013/11/nsa-spying-primary-sources
-* https://www.aclu.org/nsa-documents-released-public-june-2013
-* http://leaksource.wordpress.com/
-* https://fveydocs.org/
-* https://www.aclu.org/nsa-documents-search
-* http://natsios-young.org/
-* https://nsa.imirhil.fr/
-* https://nsa.gov1.info/dni/
+* [Introducing a Compendium of the Released NSA Spying Documents by EFF](https://www.eff.org/deeplinks/2013/11/nsa-spying-primary-sources)
+* [LeakSource](http://leaksource.wordpress.com/)
+* [DEBORAH NATSIOS AND JOHN YOUNG BIBLIOGRAPHY](http://natsios-young.org/)
+* [The NSA Toolbox](https://nsa.gov1.info/dni/)
 * [Snowden Surveillance Archive](https://snowdenarchive.cjfe.org/greenstone/cgi-bin/library.cgi)
 * [Snowden Archive Searchable](https://www.cjfe.org/snowden)
 
@@ -162,8 +160,9 @@ ISP Providers
 ------------
 
 * [AT&T helped to spy on an array of Internet traffic | The New York Times](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
-* Telecom / T-Mobile 
+* Telecom US / T-Mobile 
 * Vodafone
+* Deutsche Telekom
 * E-Plus / O2
 * Alphabet (Goolgle) 'Project Fi alias T-Com' [Apr. 2015, needs a special Fi SIM for Nexus 6 XT1103 only (atm)]
 * Digital Ocean, Inc.s
@@ -184,7 +183,6 @@ ISP Providers
 * [Türk Telekom](https://www.btk.gov.tr/File/?path=ROOT%2F1%2FDocuments%2FPages%2FMarket_Data%2F2017_Q1_Eng.pdf)
 * Belgacom
 * [Tor has a community based good/bad ISP list](https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs)
-* ....
 
 
 
@@ -229,7 +227,6 @@ Backbone Providers
 * Verizon Communications
 * ATM-Telekom
 * [IBM](https://cryptome.org/2015/08/ibm-stop-tor.pdf)
-* ...
 
 
 VPN providers which are not secure
