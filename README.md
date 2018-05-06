@@ -182,7 +182,7 @@ ISP Providers
 
 Blockchain monitoring
 ------------
-* OAKSTAR (sub-project MONKEYROCKET)
+* [OAKSTAR](https://en.wikipedia.org/wiki/OAKSTAR) (sub-project MONKEYROCKET)
 * SHIFTINGSHADOW
 * ORANGECRUSH
 * YATCHSHOP
@@ -232,6 +232,202 @@ Spying:<br />
 * Hide My Ass
 * ProXPN
 
+Recommendation:<br />
+
+* [ProtonVPN](https://protonvpn.com/)
+* [Private Internet Access](https://www.privateinternetaccess.com)
+
+
+
+Other services providers + social media platforms
+------------
+
+* Facebook
+* PushTalk / PalTalk
+* MySpace
+* [Google Inc. alias Alphabet](http://www.salon.com/2014/11/16/googles_secret_nsa_alliance_the_terrifying_deals_between_silicon_valley_and_the_security_state/)
+* Amazon
+* Microsoft 
+* Apple
+* Wikipedia, well it's for all
+* Automattic, Inc
+* LLC 
+* Yahoo
+* Twitter (FBI records)
+
+
+Government mass surveillance
+------------
+
+* [ECHELON](https://en.wikipedia.org/wiki/ECHELON) - International mass surveillance program.
+* [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
+* [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
+* [Carnivore](https://en.wikipedia.org/wiki/Carnivore_(software))
+* [DISHFIRE](https://en.wikipedia.org/wiki/DISHFIRE)
+* [STONEGHOST](https://en.wikipedia.org/wiki/STONEGHOST)
+* [Tempora](https://en.wikipedia.org/wiki/Tempora)
+* [Frenchelon](https://en.wikipedia.org/wiki/Frenchelon) Active-Passive-Exfilration (APEX)
+* [FAIRVIEW](https://en.wikipedia.org/wiki/Fairview_(surveillance_program))
+* [MYSTIC](https://en.wikipedia.org/wiki/MYSTIC_(surveillance_program))
+* [Boundless Informant](https://en.wikipedia.org/wiki/Boundless_Informant)
+* [BULLRUN](https://en.wikipedia.org/wiki/BULLRUN)
+* [PINWALE](https://en.wikipedia.org/wiki/PINWALE)
+* [Stingray](https://en.wikipedia.org/wiki/Stingray_phone_tracker)
+* [TURMOIL / Turbulence](https://en.wikipedia.org/wiki/Turbulence_(NSA))
+* [SIGINT Activity Designator (or SIGAD)](https://en.wikipedia.org/wiki/SIGINT_Activity_Designator)
+* [MUSCULAR](https://en.wikipedia.org/wiki/Muscular_(surveillance_program))
+* [STORMBREW](https://en.wikipedia.org/wiki/STORMBREW)
+* Customer Proprietary Network Information / CPNI (metadata) - can be deactivated on Android 5.1+ and e.g. Fi networks
+
+
+Discontinued
+------------
+
+* Terrorist Surveillance Program
+* Multistate Anti-Terrorism Information Exchange (MATRIX)
+* ThinThread
+* Trailblazer Project
+
+
+
+
+European Union
+------------
+
+* Data Retention Directive
+* INDECT
+* Schengen Information System
+
+
+Australia
+------------ 
+
+* Status: unclear, needs confirmation + evidence
+
+
+China
+------------
+
+* Golden Shield Project
+* Monitoring Bureau -> Status: unclear, needs confirmation + evidence
+* Public Information Network Security -> Status: unclear, needs confirmation + evidence
+
+
+France
+------------
+
+* Frenchelon 
+
+
+Germany
+------------
+
+* Nachrichtendienstliches Informationssystem
+* Project 6
+
+
+India
+------------
+
+* Central Monitoring System (CMS)
+* DRDO NETRA
+* NATGRID
+
+
+Russia
+------------
+
+* SORM
+* Yarovaya Law 
+* other systems rumored - Status: unclear, needs confirmation + evidence
+
+
+Sweden
+------------
+
+* Titan traffic database
+* X-Keyscore
+
+
+
+Switzerland
+------------
+
+* Onyx
+
+
+United Kingdom
+------------
+
+* Impact Nominal Index
+* Interception Modernisation Programme
+* Mastering the Internet (MTI)
+* UK National DNA Database (NDNAD)
+* Tempora
+* Royal Concierge
+
+
+
+United States
+------------
+
+* Boundless Informant (needs confirmation)
+* BULLRUN
+* Carnivore
+* Comprehensive National Cybersecurity Initiative
+* DCSNet
+* Fairview
+* Financial Crimes Enforcement Network
+* ICREACH
+* Magic Lantern (needs confirmation)
+* Main Core
+* MAINWAY
+* Media monitoring services
+* MUSCULAR
+* MYSTIC
+* Nationwide Suspicious Activity Reporting Initiative
+* NSA ANT catalog
+* PRISM
+* Room 641A via AT&T 
+* Sentry Eagle
+* Special Collection Service
+* Stellar Wind (code name)
+* Tailored Access Operations
+* Terrorist Finance Tracking Program
+* Turbulence (NSA)
+* US Intelligence Community (IC)
+* Utah Data Center
+* X-Keyscore
+
+
+Possible Iran (unconfirmed + needs proof)
+------------
+* GhostNet
+* Stuxnet
+
+
+
+Spying programs
+------------
+
+* Traceroute "Packaged Goods" / "Treasure Map"
+* VOIP: Hammerchant
+* WEALTHYCLUSTER
+* APEX
+* COMSAT
+* IRRITANT HORN (hijacks Google Play Store contained apps)
+* HACIENDA
+
+
+Passwords
+------------
+
+* [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) [use [Two-factor authentication instead](https://en.wikipedia.org/wiki/Multi-factor_authentication)]
+
+
+**Thanks goes to everyone which are fighting for www. security! Give spying no chance!**
+
+
 
 Research: <br />
 
@@ -252,70 +448,3 @@ Research: <br />
 * DoubleHop.me: [Archive](http://archive.is/G11WQ) and http://archive.is/MZgWE and http://imgur.com/Zn5HSIj
 * https://en.wikipedia.org/wiki/Trusted_Computing#Loss_of_anonymity ([measure.c](https://github.com/systemd/systemd/blob/09541e49ebd17b41482e447dd8194942f39788c0/src/boot/efi/measure.c))
 
-
-Recommendation:<br />
-
-* [ProtonVPN](https://protonvpn.com/)
-* [Private Internet Access](https://www.privateinternetaccess.com)
-
-
-Other services providers + social media platforms
-------------
-* Facebook
-* PushTalk / PalTalk
-* MySpace
-* [Google Inc. alias Alphabet](http://www.salon.com/2014/11/16/googles_secret_nsa_alliance_the_terrifying_deals_between_silicon_valley_and_the_security_state/)
-* Amazon
-* Microsoft 
-* Apple
-* Wikipedia, well it's for all
-* Automattic, Inc
-* LLC 
-* Yahoo
-* Twitter (FBI records)
-* ....
-
-
-Spying systems
-------------
-
-* [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
-* [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
-* [ECHELON](https://en.wikipedia.org/wiki/ECHELON)
-* [Carnivore](https://en.wikipedia.org/wiki/Carnivore_(software))
-* [MUSCULAR](https://en.wikipedia.org/wiki/MUSCULAR_(surveillance_program))
-* [DISHFIRE](https://en.wikipedia.org/wiki/DISHFIRE)
-* [STONEGHOST](https://en.wikipedia.org/wiki/STONEGHOST)
-* [Tempora](https://en.wikipedia.org/wiki/Tempora)
-* [Frenchelon](https://en.wikipedia.org/wiki/Frenchelon) Active-Passive-Exfilration (APEX)
-* [Fairview](https://en.wikipedia.org/wiki/Fairview_(surveillance_program))
-* [MYSTIC](https://en.wikipedia.org/wiki/MYSTIC_(surveillance_program))
-* [Boundless Informant](https://en.wikipedia.org/wiki/Boundless_Informant)
-* [BULLRUN](https://en.wikipedia.org/wiki/BULLRUN)
-* [PINWALE](https://en.wikipedia.org/wiki/PINWALE)
-* [Stingray](https://en.wikipedia.org/wiki/Stingray_phone_tracker)
-* [TURMOIL / Turbulence](https://en.wikipedia.org/wiki/Turbulence_(NSA))
-* Customer Proprietary Network Information / CPNI (metadata) - can be deactivated on Android 5.1+ and e.g. Fi networks
-
-
-
-Spying programs
-------------
-
-* Traceroute "Packaged Goods" / "Treasure Map"
-* VOIP: Hammerchant
-* WEALTHYCLUSTER
-* APEX
-* COMSAT
-* IRRITANT HORN (hijack's Google Play Store contained apps)
-* HACIENDA
-* ....
-
-
-Passwords
-------------
-
-* [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) [use [Two-factor authentication instead](https://en.wikipedia.org/wiki/Multi-factor_authentication)]
-
-
-**Thanks goes to everyone which are fighting for www. security! Give spying no chance!**
