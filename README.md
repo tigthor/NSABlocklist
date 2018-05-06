@@ -17,6 +17,9 @@ This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) 
 My list is original based on 2007 published Wikileaks documents and includes my own modifications from 2008, 2012, 2014 and 2015.
 
 
+Current Status: 2,45 Mio files (not everything upload [yet]).
+
+
 
 This project includes
 ------------
@@ -149,7 +152,9 @@ Snowden documents compilations
 * http://natsios-young.org/
 * https://nsa.imirhil.fr/
 * https://nsa.gov1.info/dni/
-* https://snowdenarchive.cjfe.org/
+* [Snowden Surveillance Archive](https://snowdenarchive.cjfe.org/greenstone/cgi-bin/library.cgi)
+* [Snowden Archive Searchable](https://www.cjfe.org/snowden)
+
 
 
 
@@ -294,7 +299,6 @@ Discontinued
 
 
 
-
 European Union
 ------------
 
@@ -328,6 +332,7 @@ Germany
 
 * Nachrichtendienstliches Informationssystem
 * Project 6
+* RAMPART-A with BND / NSA (needs more evidence)
 
 
 India
