@@ -1,4 +1,4 @@
-Using special programs in order to defeat surveillance is not enough. 
+Using special programs or a VPN in order to defeat surveillance is not enough. 
 
 You can directly help to stop it by filling out the 'take action' documents/proposal which helps to fight against spying, surveillance and other non-acceptable government actions. 
 

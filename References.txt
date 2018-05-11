@@ -88,6 +88,7 @@ Research
 * DoubleHop.me: [Archive](http://archive.is/G11WQ) and http://archive.is/MZgWE and http://imgur.com/Zn5HSIj
 * https://en.wikipedia.org/wiki/Trusted_Computing#Loss_of_anonymity ([measure.c](https://github.com/systemd/systemd/blob/09541e49ebd17b41482e447dd8194942f39788c0/src/boot/efi/measure.c))
 * [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 
+* https://file.wikileaks.org/torrent/
 
 
 
