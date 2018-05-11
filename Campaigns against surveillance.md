@@ -20,10 +20,4 @@ Campaign | Organization | Status
 
 
 
-Todo
-------
-
-- [ ] Separate open/closed/won/lost ones
-- [ ] More information, maybe short description?
-- [ ] Better intro
 
