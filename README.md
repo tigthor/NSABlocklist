@@ -78,7 +78,7 @@ Known problems
 Utils
 ------------
 
-* [DNSlytics](https://dnslytics.com/)
+* [IPduh](https://ipduh.com/)
 * [Robtex](https://www.robtex.com)
 * [ZMap - The Internet Scanner](https://zmap.io/)
 * [IP Address Details (ipinfo.io)](https://ipinfo.io/)
@@ -214,6 +214,7 @@ Spying:<br />
 * [HotSpotShield](https://cdt.org/files/2017/08/FTC-CDT-VPN-complaint-8-7-17.pdf)
 * Hide My Ass
 * ProXPN
+* [PureVPN](https://www.justice.gov/opa/press-release/file/1001841/download)
 
 Recommendation:<br />
 
