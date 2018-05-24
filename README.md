@@ -215,6 +215,9 @@ Spying:<br />
 * Hide My Ass
 * ProXPN
 * [PureVPN](https://www.justice.gov/opa/press-release/file/1001841/download)
+* [EarthVPN](http://www.wipeyourdata.com/other-data-erasing/no-logs-earthvpn-user-arrested-after-police-finds-logs/)
+* Betternet
+
 
 Recommendation:<br />
 
