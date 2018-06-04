@@ -11,7 +11,7 @@ NSABlocklist© project original created under the MIT license 2015-2018 by [CHEF
 Description
 ------------
 
-This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from being connecting to you without permission, of course the IP's also can be used for Bot Revolt or other tools. The list is not designed to block common malware, spyware/ads or anything that is already available on the net via a proper designed hosts for such special case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
+This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from being connecting to you without permission, of course the IPs also can be used for Bot Revolt or other tools. The list is not designed to block common malware, spyware/ads or anything that is already available on the net via a proper designed hosts for such special case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 
 My list is original based on 2007 published Wikileaks documents and includes my own modifications from 2008, 2012, 2014 and 2015.
@@ -207,7 +207,7 @@ Backbone Providers
 * [IBM](https://cryptome.org/2015/08/ibm-stop-tor.pdf)
 
 
-VPN providers which are not secure
+VPN providers which are not secure or logging
 ------------
 
 Spying:<br />
@@ -217,7 +217,8 @@ Spying:<br />
 * [PureVPN](https://www.justice.gov/opa/press-release/file/1001841/download)
 * [EarthVPN](http://www.wipeyourdata.com/other-data-erasing/no-logs-earthvpn-user-arrested-after-police-finds-logs/)
 * Betternet
-* Slickvpn 
+* Slickvpn (keeps logs)
+* [IPVanish](https://www.courtlistener.com/recap/gov.uscourts.insd.67065.2.0.pdf) (keeps logs)
 
 
 Recommendation:<br />
