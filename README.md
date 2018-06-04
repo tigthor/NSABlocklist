@@ -97,6 +97,8 @@ Utils
 Project History
 ------------
 
+- [x] 04.06.2018 Add Anti-NSA project list.
+- [x] 03.06.2018 Ipfilter update, Amzon list finally fully merged.
 - [x] 06.05.2018 Readme updates, pdf section sorted, new PDF files updated. Project Status added, several other minor changes.
 - [x] 05.05.2018 Ipfilter update.
 - [x] 22.03.2018 Bitcoing (Blockchain) tracking documents (revealed by E.S.) added
@@ -131,6 +133,11 @@ Snowden documents compilations
 * [Snowden Surveillance Archive](https://snowdenarchive.cjfe.org/greenstone/cgi-bin/library.cgi)
 * [Snowden Archive Searchable](https://www.cjfe.org/snowden)
 
+
+
+## Anti-NSA programs and networks
+
+* [Hackers build a new Tor client designed to beat the NSA](https://www.dailydot.com/layer8/tor-astoria-timing-attack-client/)
 
 
 
@@ -277,7 +284,7 @@ Government mass surveillance
 Discontinued
 ------------
 
-* Terrorist Surveillance Program
+* U.S. Terrorist Surveillance Program 
 * Multistate Anti-Terrorism Information Exchange (MATRIX)
 * ThinThread
 * Trailblazer Project
