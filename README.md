@@ -212,7 +212,7 @@ VPN providers which are not secure or logging
 
 Spying:<br />
 * [HotSpotShield](https://cdt.org/files/2017/08/FTC-CDT-VPN-complaint-8-7-17.pdf)
-* Hide My Ass
+* [Hide My Ass](http://www.hacker10.com/internet-anonymity/hma-vpn-user-arrested-after-ip-handed-over-to-the-fbi/)
 * ProXPN
 * [PureVPN](https://www.justice.gov/opa/press-release/file/1001841/download)
 * [EarthVPN](http://www.wipeyourdata.com/other-data-erasing/no-logs-earthvpn-user-arrested-after-police-finds-logs/)
@@ -224,8 +224,11 @@ Spying:<br />
 Recommendation:<br />
 
 * [ProtonVPN](https://protonvpn.com/)
-* [Private Internet Access](https://www.privateinternetaccess.com)
-* See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more detailed comparison chart
+* [Private Internet Access](https://www.privateinternetaccess.com) ([raid proof](https://torrentfreak.com/vpn-providers-no-logging-claims-tested-in-fbi-case-160312/))
+* [ExpressVPN](https://www.expressvpn.com) ([raid proof](https://www.bestvpn.com/privacy-news/expressvpn-cannot-hand-over-logs/))
+* [Perfect Privacy](https://www.perfect-privacy.com/)
+
+See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more detailed comparison chart - keep in mind that this chart is not 100% correct but since everyone can submit findings it's more or less reliable. 
 
 
 
