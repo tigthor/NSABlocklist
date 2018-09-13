@@ -20,6 +20,15 @@ My list is original based on 2007 published Wikileaks documents and includes my 
 **Current Status**: 2,45 Mio files (not everything upload [yet]). I need to wait for GitHub approval in order to bulk upload bigger file set (100MB+ files).
 
 
+Mass surveillance is illegal
+------------
+
+According to EGMR [mass surveillance is now official against human rights](https://hudoc.echr.coe.int/eng#{%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22],%22itemid%22:[%22001-186048%22]}). 
+
+
+You still can help [keep the fight up](https://www.privacynotprism.org.uk/) against any surveillance programs!
+
+
 
 This project includes
 ------------
