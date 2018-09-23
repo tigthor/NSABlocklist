@@ -1,7 +1,7 @@
 NSABlocklist© project original created under the MIT license 2015-2018 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 <p align="center">
-  <img width="500" height="320" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/big-brother.jpg")">
+  <img width="480" height="350" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/big-brother.jpg")">
 </p>
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
@@ -48,16 +48,19 @@ This project includes
 Any problems, questions or something wrong?
 ------------
 
-* Feel free to open an issue ticket and I will look at it asap. - Pull Requests or ideas are always welcome!
+* Feel free to open an issue ticket and I will look at it asap. 
+
+
+Pull requests or ideas are in general always welcome!
 
 
 Important Notice
 ------------
 
-* A true list of compromised IPs would list the entire Internet, then on to the fuller range open mouth blabbering of blogs, email, chat rooms, texting, aided and abetted by the world's telecoms, postal services, and, most reliably, bedroom  murmurings.
-* I do not accept donations in this project, I'm not doing this because I want $$money or hype, I'm doing this because I didn't found a proper list on the whole Internet and of course I want to share my knowledge for free. I always think that such information should be available for everyone on the world.
+* I do not accept donations in this project, I'm not doing this because I want money, I'm doing this because I didn't found a proper list on the entire Internet and of course I want to share my knowledge with everyone for free. I always think that such information should be available for everyone on the world.
 * The project has no political orientation, there will be no political leaks/information since this is not the main mission here.
 * Please keep in mind that updates/encryption/knowledge is our _only real_ weapon against NSA and other agencies. The more you know the better you can build strategies and new systems to defeat mass surveillance.
+* Please keep in mind that links to e.g. videos aren't valid because there (in most cases) doesn't include a source, date or author. Any information without proper research in it will automatically rejected and labeled as 'invalid' since it's impossible to verify if it's a legimate leak or not. 
 
 
 
@@ -91,7 +94,7 @@ Utils
 * [Robtex](https://www.robtex.com)
 * [ZMap - The Internet Scanner](https://zmap.io/)
 * [IP Address Details (ipinfo.io)](https://ipinfo.io/)
-* tracert nsa.gov, see [how TRACERT command works](http://support.microsoft.com/?kbid=162326)
+* Tracert nsa.gov, see [how TRACERT command works](http://support.microsoft.com/?kbid=162326)
 * [GlobalLeaks](https://globaleaks.org/) [Open-source anonymous whistleblowing software]
 * [Freedom Box](http://freedomboxfoundation.org/learn/)
 * [DenyHosts](http://denyhosts.sourceforge.net/)
