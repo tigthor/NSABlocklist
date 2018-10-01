@@ -226,18 +226,26 @@ Backbone Providers
 * [IBM](https://cryptome.org/2015/08/ibm-stop-tor.pdf)
 
 
-VPN providers which are not secure or logging
+VPN providers which aren't secure, logging or selling your data to 3rd parties
 ------------
 
 Spying:<br />
+* Hola (might sells data, according to their privacy policy)
 * [HotSpotShield](https://cdt.org/files/2017/08/FTC-CDT-VPN-complaint-8-7-17.pdf)
 * [Hide My Ass](http://www.hacker10.com/internet-anonymity/hma-vpn-user-arrested-after-ip-handed-over-to-the-fbi/)
 * ProXPN
 * [PureVPN](https://www.justice.gov/opa/press-release/file/1001841/download)
 * [EarthVPN](http://www.wipeyourdata.com/other-data-erasing/no-logs-earthvpn-user-arrested-after-police-finds-logs/)
-* Betternet
+* [Betternet](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf)
 * Slickvpn (keeps logs)
 * [IPVanish](https://www.courtlistener.com/recap/gov.uscourts.insd.67065.2.0.pdf) (keeps logs)
+* Opera VPN (might sells data, according to their privacy policy)
+* Psiphon (might sells data, according to their privacy policy)
+* Onavo Protect (might sells data, according to their privacy policy)
+* ZPN (might sells data, according to their privacy policy)
+* HoxxVPN (might sells data, according to their privacy policy)
+* FinchVPN (might sells data, according to their privacy policy)
+* TouchVPN (might sells data, according to their privacy policy)
 
 
 Recommendation:<br />
