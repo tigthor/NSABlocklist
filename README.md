@@ -251,7 +251,7 @@ Spying:<br />
 Recommendation:<br />
 
 * [ProtonVPN](https://protonvpn.com/)
-* [Private Internet Access](https://www.privateinternetaccess.com) ([raid proof](https://torrentfreak.com/vpn-providers-no-logging-claims-tested-in-fbi-case-160312/)) + [h ere](https://torrentfreak.com/private-internet-access-no-logging-claims-proven-true-again-in-court-180606/)
+* [Private Internet Access](https://www.privateinternetaccess.com) ([raid proof](https://torrentfreak.com/vpn-providers-no-logging-claims-tested-in-fbi-case-160312/)) + [here](https://torrentfreak.com/private-internet-access-no-logging-claims-proven-true-again-in-court-180606/)
 * [ExpressVPN](https://www.expressvpn.com) ([raid proof](https://www.bestvpn.com/privacy-news/expressvpn-cannot-hand-over-logs/))
 * [Perfect Privacy](https://www.perfect-privacy.com/)
 
@@ -287,7 +287,7 @@ Government mass surveillance
 * [DISHFIRE](https://en.wikipedia.org/wiki/DISHFIRE)
 * [STONEGHOST](https://en.wikipedia.org/wiki/STONEGHOST)
 * [Tempora](https://en.wikipedia.org/wiki/Tempora)
-* [Frenchelon](https://en.wikipedia.org/wiki/Frenchelon) Active-Passive-Exfilration (APEX)
+* [Frenchelon](https://en.wikipedia.org/wiki/Frenchelon) - Active-Passive-Exfilration (APEX)
 * [FAIRVIEW](https://en.wikipedia.org/wiki/Fairview_(surveillance_program))
 * [MYSTIC](https://en.wikipedia.org/wiki/MYSTIC_(surveillance_program))
 * [Boundless Informant](https://en.wikipedia.org/wiki/Boundless_Informant)
@@ -298,7 +298,8 @@ Government mass surveillance
 * [SIGINT Activity Designator (or SIGAD)](https://en.wikipedia.org/wiki/SIGINT_Activity_Designator)
 * [MUSCULAR](https://en.wikipedia.org/wiki/Muscular_(surveillance_program))
 * [STORMBREW](https://en.wikipedia.org/wiki/STORMBREW)
-* Customer Proprietary Network Information / CPNI (metadata) - can be deactivated on Android 5.1+ and e.g. Fi networks
+* Customer Proprietary Network Information / CPNI (metadata) - can be deactivated on Android 5.1+ and e.g. Wifi networks
+
 
 
 Discontinued
