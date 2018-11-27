@@ -109,6 +109,7 @@ Utils
 Project History
 ------------
 
+- [x] 27.11.2018 NordVPN audit leaked.
 - [x] 04.06.2018 Add Anti-NSA project list.
 - [x] 03.06.2018 Ipfilter update, Amzon list finally fully merged.
 - [x] 06.05.2018 Readme updates, pdf section sorted, new PDF files updated. Project Status added, several other minor changes.
