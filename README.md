@@ -247,6 +247,36 @@ Spying:<br />
 * HoxxVPN (might sells data, according to their privacy policy)
 * FinchVPN (might sells data, according to their privacy policy)
 * TouchVPN (might sells data, according to their privacy policy)
+* TurboVPN
+* VPN Proxy Master
+* Snap VPN
+* X-VPN	5M
+* VPN 360	1M
+* VPN – Super Unlimited Proxy
+* Free VPN by FreeVPN.org
+* Secure VPN
+* VPN – Master Proxy
+* HotspotVPN
+* SkyVPN
+* VPN Patron
+* VPN for iPhone
+* YogaVPN
+* VPN Guru
+* Hola
+* Hotspot Shield
+* Betternet
+* TouchVPN
+* Shield VPN
+* VPN Wifi Proxy Security Master
+* Victory VPN
+* Storm VPN (_unclear_)
+* SuperVPN Free VPN Client
+* VPN Private
+* Thunder VPN
+* VPN Melon
+* Super VPN
+* #VPN
+* Psiphon
 
 
 Recommendation:<br />
