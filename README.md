@@ -184,6 +184,14 @@ Compromised ISP Providers
 
 
 
+ISP which are known to fight for privacy and a free internet
+------------
+
+* Bahnhof (Swedish)
+* Sonic (US)
+
+
+
 Blockchain monitoring
 ------------
 * [OAKSTAR](https://en.wikipedia.org/wiki/OAKSTAR) (sub-project MONKEYROCKET)
