@@ -243,7 +243,7 @@ Spying:<br />
 * [HotSpotShield](https://cdt.org/files/2017/08/FTC-CDT-VPN-complaint-8-7-17.pdf)
 * [Hide My Ass](http://www.hacker10.com/internet-anonymity/hma-vpn-user-arrested-after-ip-handed-over-to-the-fbi/)
 * ProXPN
-* [PureVPN](https://www.justice.gov/opa/press-release/file/1001841/download)
+* [PureVPN](https://www.justice.gov/opa/press-release/file/1001841/download) ([proof](https://news.ycombinator.com/item?id=18923155))
 * [EarthVPN](http://www.wipeyourdata.com/other-data-erasing/no-logs-earthvpn-user-arrested-after-police-finds-logs/)
 * [Betternet](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf)
 * Slickvpn (keeps logs)
