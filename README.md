@@ -1,4 +1,4 @@
-NSABlocklist© project original created under the ISC license 2015-2018 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+NSABlocklist© project original created under the ISC license 2015-2019 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 <p align="center">
   <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/big-brother.jpg")">
@@ -285,6 +285,11 @@ Spying:<br />
 * Super VPN
 * #VPN
 * Psiphon
+* AnchorFree
+* StackPath
+* Avast (owns three brands: HideMyAss, Avast Secureline VPN, AVG Secure VPN, and Zen VPN)
+* Kape and Gaditek
+
 
 
 Recommendation:<br />
