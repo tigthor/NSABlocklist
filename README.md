@@ -106,6 +106,17 @@ Utils
 
 
 
+
+NSA Resources and public programs(s)
+------------
+
+* [National Security Agency (github.com)](https://github.com/nationalsecurityagency)
+* [Ghidra reverse engineering (SRE) framework (nsa.gov)](https://www.nsa.gov/resources/everyone/ghidra/) [[story](https://www.theregister.co.uk/2019/03/06/nsa_ghidra_joyce/)]
+* [NSA public source code repo (code.nsa.gov)](https://code.nsa.gov/) 
+
+
+
+
 Project History
 ------------
 
