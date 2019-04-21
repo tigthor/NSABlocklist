@@ -21,7 +21,7 @@ My list is original based on 2007 published Wikileaks documents and includes my 
 **Current Status**: 2,45 Mio files (not everything upload [yet]). I need to wait for GitHub approval in order to bulk upload bigger file set (100MB+ files).
 
 
-Mass surveillance is illegal
+Mass surveillance is official illegal
 ------------
 
 According to EGMR [mass surveillance is now official against human rights](https://hudoc.echr.coe.int/eng#{%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22],%22itemid%22:[%22001-186048%22]}). 
@@ -181,10 +181,6 @@ Compromised ISP Providers
 * Verizon
 * TNG
 * Spint
-* Easybell
-* L8NT
-* Charter
-* Suddenlink
 * Sprint
 * Unicom (GFW)
 * CERNET (GFW)
@@ -193,6 +189,15 @@ Compromised ISP Providers
 * [Türk Telekom](https://www.btk.gov.tr/File/?path=ROOT%2F1%2FDocuments%2FPages%2FMarket_Data%2F2017_Q1_Eng.pdf)
 * Belgacom
 * [Tor has a community based good/bad ISP list](https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs)
+
+
+Needs more evidence
+------------
+
+* Easybell
+* L8NT
+* Charter
+* Suddenlink
 
 
 
@@ -225,7 +230,7 @@ Videos
 Tips directly from nsa.gov
 ------------
 
-* [NSA IA Guidance](https://www.nsa.gov/ia/mitigation_guidance/index.shtml) incl. several pdf's.
+* [NSA IA Guidance](https://www.nsa.gov/ia/mitigation_guidance/index.shtml) incl. several PDF's.
 
 
 Backbone Providers
@@ -258,7 +263,7 @@ Spying:<br />
 * [PureVPN](https://www.justice.gov/opa/press-release/file/1001841/download) ([proof](https://news.ycombinator.com/item?id=18923155))
 * [EarthVPN](http://www.wipeyourdata.com/other-data-erasing/no-logs-earthvpn-user-arrested-after-police-finds-logs/)
 * [Betternet](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf)
-* Slickvpn (keeps logs)
+* Slickvpn (_keeps logs_)
 * [IPVanish](https://www.courtlistener.com/recap/gov.uscourts.insd.67065.2.0.pdf) (keeps logs)
 * Opera VPN (might sells data, according to their privacy policy)
 * Psiphon (might sells data, according to their privacy policy)
@@ -304,7 +309,7 @@ Spying:<br />
 
 
 
-Recommendation:<br />
+**Recommendation:**
 
 * [ProtonVPN](https://protonvpn.com/)
 * [Private Internet Access](https://www.privateinternetaccess.com) ([raid proof](https://torrentfreak.com/vpn-providers-no-logging-claims-tested-in-fbi-case-160312/)) + [here](https://torrentfreak.com/private-internet-access-no-logging-claims-proven-true-again-in-court-180606/)
@@ -331,13 +336,13 @@ Other services providers + social media platforms
 * LLC 
 * Yahoo
 * Twitter (FBI records)
-* [Cookie based tracking](NSA uses advertisers’ cookies to track specific web browsers - report)
+* [Cookie based tracking](https://www.rt.com/usa/nsa-advertisers-cookies-track-browsers-034/) - NSA uses advertisers’ cookies to track specific web browsers
 
 
 Government mass surveillance
 ------------
 
-* [ECHELON](https://en.wikipedia.org/wiki/ECHELON) - International mass surveillance program.
+* [ECHELON](https://en.wikipedia.org/wiki/ECHELON)
 * [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
 * [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
 * [Carnivore](https://en.wikipedia.org/wiki/Carnivore_(software))
@@ -498,4 +503,4 @@ Spying programs
 * HACIENDA
 
 
-**Thanks goes to everyone who are fighting for www. security! Give spying no chance!**
+**A special thanks goes to everyone who are fighting for www. security! Give spying no chance!**
