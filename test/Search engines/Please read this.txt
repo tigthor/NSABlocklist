@@ -1,2 +1,0 @@
-Please Don't Block Everything but Googlebot in robots.txt:
-http://danluu.com/googlebot-monopoly/

@@ -1,7 +1,7 @@
 NSABlocklist© project original created under the ISC license 2015 - 2019 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 <p align="center">
-  <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/big-brother.jpg")">
+  <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/.github/Pictures/big-brother.jpg")">
 </p>
 
 [![Matrix](https://img.shields.io/matrix/cknews:matrix.org.svg?label=CK%27s%20Technology%20News%20-%20Matrix%20Chat&server_fqdn=matrix.org&style=popout)](https://matrix.to/#/#cknews:matrix.org)
