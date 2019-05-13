@@ -76,7 +76,7 @@ Do you hate the NSA or other agencies?
 Known problems
 ------------
 
-* An HOSTS file is no guarantee that if the NSA is already 'in your system/network' - to protect you - it's just to late.
+* An HOSTS file is no guarantee that if the NSA is already 'in your system/network' - to protect you - it's just too late.
 * HOSTS files are no guarantee that NSA or any other attacker/organization could simply bypass it via 0day or other vulnerabilities on your system/router.
 * HOSTS files can't protect against attacks directly in hardware, e.g. if the router is already compromised or comes with backdoors this list will be easily bypassed anyway.
 * Due the complex of the entire file I can't explain every single IP/Domain/PTR record. If something was changed, feel free to open a pull request or send me an eMail.
