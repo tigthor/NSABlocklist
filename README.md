@@ -107,6 +107,13 @@ Utils
 
 
 
+Anti-DPI (deep package inspection) tools (_they don't replace a good VPN!_)
+------------
+
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) & [GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/releases)
+* [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
+* [zapret](https://github.com/bol-van/zapret) 
+
 
 NSA Resources and public program(s)
 ------------
@@ -121,6 +128,7 @@ NSA Resources and public program(s)
 Project History
 ------------
 
+- [x] 01.07.2019 Added some Anti-DPI programs.
 - [x] 27.11.2018 NordVPN audit leaked.
 - [x] 04.06.2018 Add Anti-NSA project list.
 - [x] 03.06.2018 Ipfilter update, Amazon list finally fully merged.
@@ -166,7 +174,7 @@ Snowden documents compilations
 
 
 
-Compromised ISP Providers
+Known compromised ISP Providers
 ------------
 
 * [AT&T helped to spy on an array of Internet traffic | The New York Times](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
@@ -364,7 +372,7 @@ Government mass surveillance
 
 
 
-Discontinued
+Discontinued Projects
 ------------
 
 * U.S. Terrorist Surveillance Program 
@@ -388,12 +396,22 @@ Australia
 * Status: unclear, needs confirmation + evidence
 
 
+
 China
 ------------
 
 * Golden Shield Project
 * Monitoring Bureau -> Status: unclear, needs confirmation + evidence
 * Public Information Network Security -> Status: unclear, needs confirmation + evidence
+
+
+
+
+Korea
+------------
+
+* [Allmost all ISP's blocking /controlling HTTP/HTPS (DPI)](https://www.bleepingcomputer.com/news/security/south-korea-is-censoring-the-internet-by-snooping-on-sni-traffic/)
+
 
 
 France
