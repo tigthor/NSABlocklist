@@ -272,7 +272,7 @@ Spying:<br />
 * [EarthVPN](http://www.wipeyourdata.com/other-data-erasing/no-logs-earthvpn-user-arrested-after-police-finds-logs/)
 * [Betternet](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf)
 * Slickvpn (_keeps logs_)
-* [IPVanish](https://www.courtlistener.com/recap/gov.uscourts.insd.67065.2.0.pdf) (keeps logs)
+* [IPVanish](https://www.courtlistener.com/recap/gov.uscourts.insd.67065.2.0.pdf) ([keeps logs](https://www.bestvpn.co/blog/ipvanish-helps-homeland-security-in-catching-a-criminal-suspect/))
 * Opera VPN (might sells data, according to their privacy policy)
 * Psiphon (might sells data, according to their privacy policy)
 * Onavo Protect (might sells data, according to their privacy policy)
