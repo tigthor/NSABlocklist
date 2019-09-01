@@ -578,7 +578,6 @@
 0.0.0.0 bars.sapo.pt #PT Telecomunicacoes
 0.0.0.0 basebanner.com
 0.0.0.0 bat.bing.com
-0.0.0.0 bat.bing.com
 0.0.0.0 batchgeo.com
 0.0.0.0 baw5tracker.com #Lead Forensics
 0.0.0.0 baynote.net
@@ -902,7 +901,6 @@
 0.0.0.0 clusteredcloud.com #AppNexus Inc
 0.0.0.0 clusteredcloud.net #AppNexus Inc
 0.0.0.0 cmail.link #Campaign Monitor Pty
-0.0.0.0 cmail1.com #Campaign Monitor Pty
 0.0.0.0 cmail1.com #Campaign Monitor Pty
 0.0.0.0 cmail10.com #Campaign Monitor Pty
 0.0.0.0 cmail11.com #Campaign Monitor Pty
@@ -1327,7 +1325,6 @@
 0.0.0.0 ellard.biz #Ad Web
 0.0.0.0 ellard.net #Ad Web
 0.0.0.0 eloqua.com #Oracle
-0.0.0.0 eloqua.com #Oracle
 0.0.0.0 email-confirmation.com #Campaign Monitor Pty
 0.0.0.0 email-standards.com #Campaign Monitor Pty
 0.0.0.0 email-standards.org #Campaign Monitor Pty
@@ -1618,8 +1615,8 @@
 0.0.0.0 honeytracks.com #HoneyTracks
 0.0.0.0 hotjar.com #Hotjar
 0.0.0.0 hqcampaign.com #Aurea
-0.0.0.0 hrb1tng0.com #Lead Forensics
 0.0.0.0 hrb1tng0.com
+0.0.0.0 hrb1tng0.com #Lead Forensics
 0.0.0.0 hs-analytics.com #Hubspot
 0.0.0.0 hs-analytics.net #Hubspot
 0.0.0.0 hs-appstatic.com #Hubspot
@@ -12027,7 +12024,6 @@
 0.0.0.0 trafficjunky.net #Ennova Research
 0.0.0.0 traffickart.info #msales
 0.0.0.0 trafficshop.com
-0.0.0.0 trafficstars.com #Trafficstars
 0.0.0.0 trafficstars.com #Trafficstars
 0.0.0.0 traffique.net #Unknown Advertising
 0.0.0.0 trafshopmbuyer.com #msales
