@@ -3,7 +3,7 @@ Project ToDo
 
 - [x] Add compromised VPN providers
 - [ ] Fix Readme.md, typos, grammar,... (mid-prio)
-  - [ ] Sort hosts entries alphabetically (low-prio)
+  - [x] Sort hosts entries alphabetically (low-prio)
   - [ ] Add an optional an separate hosts file for MS, Apple, Google (low-prio)
   - [ ] Monthly updates based on current leaks?
 - [x] Find invalid entries or domains that aren't online anymore (high-prio)
