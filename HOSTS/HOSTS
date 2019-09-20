@@ -1,10 +1,10 @@
 #
-# License:						MIT License (MIT)
-# File encoding: 			    UTF-8 Dos/Windows 1252
-# Original maintainer:		    CHEF-KOCH
-# Notice:						Last checked 22 May 2018							
-# Version:						0.0.18
-# Homepage: 					https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
+# License: MIT License (MIT)
+# File encoding: UTF-8 Dos/Windows 1252
+# Original maintainer: CHEF-KOCH
+# Notice:	 Last checked 20 Sept. 2019							
+# Version: 0.0.19
+# Homepage: https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS
 #
 127.0.0.1 localhost							# [IPv4 only]
 127.0.0.1 localhost.localdomain				# Local Domain
@@ -151,6 +151,7 @@
 0.0.0.0 backup.uninet.com.cn
 0.0.0.0 bambero1.cs.tin.it
 0.0.0.0 barakus.tiscali.com
+0.0.0.0 baseball2.2ndhalfplays.com
 0.0.0.0 bass2.srt.com
 0.0.0.0 bbdns1.on-nets.com
 0.0.0.0 bbdns2.on-nets.com
