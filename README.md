@@ -314,6 +314,7 @@ Spying:<br />
 * StackPath
 * Avast (owns three brands: HideMyAss, Avast Secureline VPN, AVG Secure VPN, and Zen VPN)
 * Kape and Gaditek
+* [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption) (_compromised_)
 
 
 
