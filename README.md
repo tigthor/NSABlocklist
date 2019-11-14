@@ -324,7 +324,6 @@ Spying:<br />
 * [Private Internet Access](https://www.privateinternetaccess.com) ([raid proof](https://torrentfreak.com/vpn-providers-no-logging-claims-tested-in-fbi-case-160312/)) + [here](https://torrentfreak.com/private-internet-access-no-logging-claims-proven-true-again-in-court-180606/)
 * [ExpressVPN](https://www.expressvpn.com) ([raid proof](https://www.bestvpn.com/privacy-news/expressvpn-cannot-hand-over-logs/))
 * [Perfect Privacy](https://www.perfect-privacy.com/)
-* [NordVPN](https://nordvpn.com) [Audit](https://github.com/CHEF-KOCH/NSABlocklist/blob/master/Documents/VPN/profile-nordvpn2.pdf) [Blog](https://vpnpro.com/blog/why-pwc-audit-of-nordvpn-logging-policy-is-a-big-deal/)
 
 See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more detailed comparison chart - keep in mind that this chart is not 100% correct but since everyone can submit findings it's more or less reliable. 
 
@@ -348,9 +347,10 @@ Other services providers + social media platforms
 * [Cookie based tracking](https://www.rt.com/usa/nsa-advertisers-cookies-track-browsers-034/) - NSA uses advertisers’ cookies to track specific web browsers
 
 
-Government mass surveillance
+Government mass surveillance projects & laws
 ------------
 
+### Mass surveillance projects
 * [ECHELON](https://en.wikipedia.org/wiki/ECHELON)
 * [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore)
 * [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
@@ -369,17 +369,20 @@ Government mass surveillance
 * [SIGINT Activity Designator (or SIGAD)](https://en.wikipedia.org/wiki/SIGINT_Activity_Designator)
 * [MUSCULAR](https://en.wikipedia.org/wiki/Muscular_(surveillance_program))
 * [STORMBREW](https://en.wikipedia.org/wiki/STORMBREW)
-* Customer Proprietary Network Information / CPNI (metadata) - can be deactivated on Android 5.1+ and e.g. Wifi networks
+
+#### Law
+[Government Must Have Reasonable Suspicion of Digital Contraband Before Searching Electronic Devices at the U.S. Border](https://www.aclu.org/press-releases/federal-court-rules-suspicionless-searches-travelers-phones-and-laptops)
 
 
-
-Discontinued Projects
+Discontinued surveillance programs projects
 ------------
 
 * U.S. Terrorist Surveillance Program 
 * Multistate Anti-Terrorism Information Exchange (MATRIX)
 * ThinThread
 * Trailblazer Project
+* Customer Proprietary Network Information / CPNI (metadata) - can be deactivated on Android 5.1+ and e.g. Wifi networks
+
 
 
 
