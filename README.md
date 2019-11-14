@@ -317,13 +317,86 @@ Spying:<br />
 * [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption) (_compromised_)
 
 
+Controversial:<br />
 
-**Recommendation:**
+Based on the following [review](https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml#) these VPN services are marked as controversial.
+
+* Opera VPN
+* Hoxx VPN
+* Betternet
+* Hola VPN
+* SecureVPN
+* Ace VPN
+* VPN Unlimited
+* Ra4w VPN
+* Speedify
+* AzireVPN
+* Ivacy
+* BTGuard VPN
+* Zenmate
+* DotVPN
+* VPN.ht
+* F-Secure Freedome
+* Kaspersky VPN
+* Anonymizer VPN
+* Norton Wifi Privacy
+* SurfEasy
+* Encrypt Me
+* TigerVPN
+* AVG VPN
+* PureVPN
+* HideMyAss!
+* Browsec VPN
+* BitDefender VPN
+* Hide All IP
+* ProxPN
+* ZoogVPN
+* VPN ac
+* OneVPN
+* Cactus VPN
+* SaferVPN
+* SpyOFF
+* VPNTunnel
+* SwitchVPN
+* VyprVPN
+* Buffered
+* BolehVPN
+* Avira Phantom
+* PrivateTunnel
+* HotSpot Shield
+* LiquidVPN
+* TunnelBear
+* PrivateVPN
+* StrongVPN
+* SlickVPN
+* Astrill VPN
+* FrootVPN
+* VPNArea
+* Goose VPN
+* Celo VPN
+* PersonalVPN
+* AirVPN
+* AnonymousVPN.org
+* Avast Secureline
+* IVPN
+* TorGuard
+* FastestVPN
+* BlackVPN
+* VPNSecure Me
+* WindScribe
+* ibVPN (almost no servers)
+* Trust Zone
+* CyberGhost
+
+
+**VPN Recommendation:**
+
+Worth a read: [VPN Guide: Legality, Jurisdictions & Internet Censorship](https://vpn-review.com/are-vpns-legal/)
 
 * [ProtonVPN](https://protonvpn.com/)
 * [Private Internet Access](https://www.privateinternetaccess.com) ([raid proof](https://torrentfreak.com/vpn-providers-no-logging-claims-tested-in-fbi-case-160312/)) + [here](https://torrentfreak.com/private-internet-access-no-logging-claims-proven-true-again-in-court-180606/)
 * [ExpressVPN](https://www.expressvpn.com) ([raid proof](https://www.bestvpn.com/privacy-news/expressvpn-cannot-hand-over-logs/))
-* [Perfect Privacy](https://www.perfect-privacy.com/)
+* [Perfect Privacy](https://surfshark.com/)
 
 See [here](https://thatoneprivacysite.net/vpn-comparison-chart/) for a more detailed comparison chart - keep in mind that this chart is not 100% correct but since everyone can submit findings it's more or less reliable. 
 
