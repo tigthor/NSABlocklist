@@ -27,7 +27,15 @@ Mass surveillance is official illegal
 According to EGMR [mass surveillance is now official against human rights](https://hudoc.echr.coe.int/eng#{%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22],%22itemid%22:[%22001-186048%22]}). 
 
 
-You still can help [keep the fight up](https://www.privacynotprism.org.uk/) against any surveillance programs!
+**You still can help [keep the fight up](https://www.privacynotprism.org.uk/) against any surveillance programs!**
+
+
+
+
+NSA has stopped collecting location data from US cellphones without a warrant
+------------
+
+[Intelligence agencies stopped the practice last year](https://www.theverge.com/2019/11/14/20965354/nsa-intelligence-no-warrant-phone-location-data-collection).
 
 
 
