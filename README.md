@@ -606,4 +606,11 @@ Spying programs
 * HACIENDA
 
 
+## Hardware Recommendations
+
+- Phone: [Librem 5](https://puri.sm/products/librem-5/)
+- Laptop: [Librem 13](https://puri.sm/products/librem-13/) with [Pureboot](https://puri.sm/posts/pureboot-the-high-security-boot-process/) and [Librem Key](https://puri.sm/products/librem-key/) OR [NitroKey](https://www.nitrokey.com/)
+- BitCoin/Monero conversation: [XMR.to](https://xmr.to/nojs/)
+
+
 **A special thanks goes to everyone who are fighting for www. security! Give spying no chance!**
