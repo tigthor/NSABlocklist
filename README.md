@@ -402,7 +402,6 @@ Based on the following [review](https://docs.google.com/spreadsheets/d/e/2PACX-1
 Worth a read: [VPN Guide: Legality, Jurisdictions & Internet Censorship](https://vpn-review.com/are-vpns-legal/)
 
 * [ProtonVPN](https://protonvpn.com/)
-* [Private Internet Access](https://www.privateinternetaccess.com) ([raid proof](https://torrentfreak.com/vpn-providers-no-logging-claims-tested-in-fbi-case-160312/)) + [here](https://torrentfreak.com/private-internet-access-no-logging-claims-proven-true-again-in-court-180606/)
 * [ExpressVPN](https://www.expressvpn.com) ([raid proof](https://www.bestvpn.com/privacy-news/expressvpn-cannot-hand-over-logs/))
 * [Perfect Privacy](https://surfshark.com/)
 
