@@ -186,9 +186,8 @@ Known compromised ISP Providers
 ------------
 
 * [AT&T helped to spy on an array of Internet traffic | The New York Times](http://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) & via [ProPublica](https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help)
-* Telecom US / T-Mobile 
-* Vodafone
-* Deutsche Telekom
+* Telecom US / T-Mobile / Deutsche Telekom
+* Vodafone (DNS Hijacking, DPI)
 * E-Plus / O2
 * Alphabet (Goolgle) 'Project Fi alias T-Com' [Apr. 2015, needs a special Fi SIM for Nexus 6 XT1103 only (atm)]
 * Digital Ocean, Inc.s
@@ -205,6 +204,13 @@ Known compromised ISP Providers
 * [Türk Telekom](https://www.btk.gov.tr/File/?path=ROOT%2F1%2FDocuments%2FPages%2FMarket_Data%2F2017_Q1_Eng.pdf)
 * Belgacom
 * [Tor has a community based good/bad ISP list](https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs)
+* Wind Mobile (DNS Hijacking)
+* Wind (DNS Hijacking)
+* Ote (DNS Hijacking)
+* Hol (DNS Hijacking)
+* Forthnet (DNS Hijacking)
+* Cyta (DNS Hijacking)
+* Cosmote (DNS Hijacking)
 
 
 Needs more evidence
