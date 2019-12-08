@@ -179,6 +179,7 @@ Snowden documents compilations
 ## Anti-NSA programs and networks
 
 * [Hackers build a new Tor client designed to beat the NSA](https://www.dailydot.com/layer8/tor-astoria-timing-attack-client/)
+* [Contract for the Web](https://contractfortheweb.org/)
 
 
 
@@ -471,7 +472,6 @@ Discontinued surveillance programs projects
 
 
 
-
 European Union
 ------------
 
@@ -486,14 +486,12 @@ Australia
 * Status: unclear, needs confirmation + evidence
 
 
-
 China
 ------------
 
 * Golden Shield Project
 * Monitoring Bureau -> Status: unclear, needs confirmation + evidence
 * Public Information Network Security -> Status: unclear, needs confirmation + evidence
-
 
 
 
