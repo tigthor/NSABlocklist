@@ -461,6 +461,14 @@ Government mass surveillance projects & laws
 [Government Must Have Reasonable Suspicion of Digital Contraband Before Searching Electronic Devices at the U.S. Border](https://www.aclu.org/press-releases/federal-court-rules-suspicionless-searches-travelers-phones-and-laptops)
 
 
+
+Known compromised Hardware with Malware or Backdoors
+------------
+
+* [UMX U683CL](https://blog.malwarebytes.com/android/2020/01/united-states-government-funded-phones-come-pre-installed-with-unremovable-malware/) (smartphone) [_[Assurance Wireless](https://shop.assurancewireless.com/Unimax-U683CL.html)_]
+
+
+
 Discontinued surveillance programs projects
 ------------
 
