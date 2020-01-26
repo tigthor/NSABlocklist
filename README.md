@@ -624,4 +624,11 @@ Spying programs
 - BitCoin/Monero conversation: [XMR.to](https://xmr.to/nojs/)
 
 
-**A special thanks goes to everyone who are fighting for www. security! Give spying no chance!**
+
+## Software Recommendations and defense steps Checklist
+
+- [A Defensive Computing Checklist by Michael Horowitz](https://defensivecomputingchecklist.com/)
+
+
+## THANK YOU !
+**A special thanks goes to everyone who fights for internet security and privacy!**
