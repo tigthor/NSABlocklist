@@ -5,9 +5,8 @@ NSABlocklist© project original created under the ISC license 2015 - 2019 by [CH
 </p>
 
 [![Matrix](https://img.shields.io/matrix/cknews:matrix.org.svg?label=CK%27s%20Technology%20News%20-%20Matrix%20Chat&server_fqdn=matrix.org&style=popout)](https://matrix.to/#/#cknews:matrix.org)
-![Twitter Follow](https://img.shields.io/twitter/follow/@CKsTechNews.svg?label=Follow%20%40CKsTechNews&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=social)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 
 Description
 ------------
@@ -136,6 +135,7 @@ NSA Resources and public program(s)
 Project History
 ------------
 
+- [x] 07.05.2020 IPfilter & VPN suggestion updated
 - [x] 01.07.2019 Added some Anti-DPI programs.
 - [x] 27.11.2018 NordVPN audit leaked.
 - [x] 04.06.2018 Add Anti-NSA project list.
@@ -402,13 +402,14 @@ Based on the following [review](https://docs.google.com/spreadsheets/d/e/2PACX-1
 * ibVPN (almost no servers)
 * Trust Zone
 * CyberGhost
+* Betternet VPN
 
 
 **VPN Recommendation:**
 
 Worth a read: [VPN Guide: Legality, Jurisdictions & Internet Censorship](https://vpn-review.com/are-vpns-legal/)
 
-* [ProtonVPN](https://protonvpn.com/)
+* [ProtonVPN](https://protonvpn.com/), [bypass censorship measures](https://protonvpn.com/blog/smart-protocol-android)
 * [ExpressVPN](https://www.expressvpn.com) ([raid proof](https://www.bestvpn.com/privacy-news/expressvpn-cannot-hand-over-logs/))
 * [Perfect Privacy](https://surfshark.com/)
 
